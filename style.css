@@ -1,37 +1,39 @@
 * {
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
-	background-color: beige;
+  background-color: beige;
 }
 
 div {
-	margin-left: auto;
-	margin-right: auto;
-	width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
 }
 h1 {
-	text-align: center;
-	margin-top: 25px;
-	text-transform: uppercase;
+  text-align: center;
+  padding-top: 25px;
+  text-transform: uppercase;
 }
 
 h2 {
-	text-align: center;
-	text-transform: uppercase;
+  text-align: center;
+  text-transform: uppercase;
 }
 
 figure {
-	display: flex;
-	align-items: center;
-	justify-content: center;
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
 }
 
 img {
-	align-items: center;
-	justify-content: center;
-	width: 400px;
+  align-items: center;
+  justify-content: center;
+  max-width: 400px;
 }
