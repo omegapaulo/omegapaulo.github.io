@@ -1,0 +1,25 @@
+{
+  "name": "omegapaulo.github.io",
+  "version": "1.0.0",
+  "description": "Here I hold all my small projects while learning to code, welcome to check them out.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omegapaulo/omegapaulo.github.io.git"
+  },
+  "keywords": [
+    "javascript",
+    "html",
+    "css",
+    "vanillaJS"
+  ],
+  "author": "Paulo Omega",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omegapaulo/omegapaulo.github.io/issues"
+  },
+  "homepage": "https://github.com/omegapaulo/omegapaulo.github.io#readme"
+}
