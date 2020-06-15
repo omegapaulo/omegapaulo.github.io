@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: pink;
+}
+
+.container {
+  max-width: 600px;
+  height: 100%;
+  background-color: aqua;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+input {
+  display: block;
+  margin: 0 auto;
+  margin-top: 8px;
+}
+.taskField {
+  background-color: rgb(240, 222, 222);
+  width: 400px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.task {
+  list-style: none;
+  border-bottom: 2px solid rgb(255, 255, 255);
+  padding: 5px 0 5px 5px;
+  position: relative;
+}
+
+.done {
+  text-decoration: line-through;
+  color: #ccc;
+}
+
+a {
+  cursor: pointer;
+  position: absolute;
+  right: 8px;
+}
+.delete {
+  color: rgb(199, 52, 52);
+}
+
+.doneTask {
+  margin-right: 30px;
+  color: rgb(51, 199, 51);
+}
