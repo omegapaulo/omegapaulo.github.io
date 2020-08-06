@@ -12,11 +12,11 @@ body {
 
 div {
   padding-top: 2rem;
+  padding-bottom: 1rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: inherit;
 }
 
 h1 {
@@ -25,7 +25,7 @@ h1 {
 }
 
 h2 {
-  font-size: 2.5rem;
+  font-size: 2rem;
   text-transform: capitalize;
   line-height: 3rem;
 }
@@ -51,7 +51,7 @@ h2 {
   h1 {
     font-size: 1.5rem;
     text-transform: uppercase;
-    padding: 1rem;
+    padding: 1.5rem;
   }
 
   h2 {
