@@ -11,7 +11,7 @@ body {
 }
 
 div {
-  padding-top: 5rem;
+  padding-top: 2rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -26,7 +26,7 @@ h1 {
 h2 {
   font-size: 2.5rem;
   text-transform: capitalize;
-  line-height: 5rem;
+  line-height: 3rem;
 }
 
 @media (max-width: 675px) {
@@ -36,7 +36,7 @@ h2 {
     width: 100vw;
   }
   div {
-    padding-top: 3rem;
+    padding-top: 5rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
